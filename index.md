@@ -17,7 +17,7 @@
 
 ### Education
 ---
-+ Experimental diploma : Farzaneqan    High School
++ Experimental diploma : Farzanegan   High School
  -2016
 + Diploma in English: Aftab Danesh
   -2016
