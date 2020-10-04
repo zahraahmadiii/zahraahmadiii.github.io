@@ -30,8 +30,8 @@
 ---
 + music 
 + swim
-+book reading 
-+football 
++ book reading 
++ football 
 ### Working Experience
 ---
 + Now i am a Bachelors students in computer Engineering 
