@@ -36,9 +36,8 @@
 ---
 + Now i am a Bachelors students in computer Engineering 
 ### Social Media
-
 +  https://gmail.com/zahraaahmadi141997@gmail.com
 ---
 
 
-[رزومه فارسی] (/resume-fa)
+[رزومه فارسی](/resume-fa)
