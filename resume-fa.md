@@ -1,5 +1,3 @@
-
-
 <div dir="rtl">
 <img src="pic.jpeg">
 <br>
