@@ -1,5 +1,4 @@
 ### Zahra Ahmadi
-
 <img src="pic.jpeg">
 
 ### intro
@@ -43,4 +42,4 @@
 ---
 
 
-[رزومه فارسی](/resume-fa)
+[رزومه فارسی](/index.html)
