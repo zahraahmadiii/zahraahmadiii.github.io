@@ -1,6 +1,6 @@
 ### Zahra Ahmadi
 
----<img src="pic.jpeg">
+<img src="pic.jpeg">
 
 ### intro
 
