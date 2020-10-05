@@ -38,8 +38,9 @@
 ### Social Media
 
 +https://gmail.com/zahraaahmadi141997@gmail.com
+
 ### رزومه فارسی 
 ---
 
 
-[رزومه فارسی](/index.html)
+[رزومه فارسی](/resume-fa)
