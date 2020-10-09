@@ -13,7 +13,7 @@
 
 ### Skill Highlights
 ---
-+ Programming Languages (C++,C,java)
++ Programming Languages (java se)
 
 ### Education
 ---
