@@ -13,7 +13,7 @@
 
 ### Skill Highlights
 ---
-+ Programming Languages (C++,C,java)
++ Programming Languages (java)
 
 ### Education
 ---
@@ -39,7 +39,6 @@
 
 +https://gmail.com/zahraaahmadi141997@gmail.com
 
-+https://Instagram.com/zahra211997a
 ---
 
 
