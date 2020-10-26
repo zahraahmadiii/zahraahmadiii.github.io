@@ -45,5 +45,6 @@
 
 ---
 
-
 [رزومه فارسی](/resume-fa)
+<br>
+<a href="http://s16.picofile.com/file/8411935268/%D8%B1%D8%B2%D9%88%D9%85%D9%87_%D8%B2%D9%87%D8%B1%D8%A7_%D8%A7%D8%AD%D9%85%D8%AF%DB%8C.pdf.html">Download resume</a>
