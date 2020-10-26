@@ -24,23 +24,23 @@
 + Bachelor of science: Computer Engineering
   -2018, Payam Noor University of Tehran
 
-#### Other Skills
+### Other Skills
 
 ---
 + Fluent in 1 Languages: English
 
-### Favorites
+Favorites
 ---
 + music 
 + swim
 + book reading 
 + football 
 
-### Working Experience
+Working Experience
 ---
 + Now i am a Bachelors students in computer Engineering
  
-### Social Media
+Social Media
 
 + https://gmail.com/zahraaahmadi141997@gmail.com
 
