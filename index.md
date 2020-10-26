@@ -24,7 +24,7 @@
 + Bachelor of science: Computer Engineering
   -2018, Payam Noor University of Tehran
 
- #### Other Skills
+#### Other Skills
 ---
 + Fluent in 2 Languages: English,Persian
 
