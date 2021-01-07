@@ -44,8 +44,14 @@ Social Media
 
 + https://gmail.com/zahraaahmadi141997@gmail.com
 
-### رزومه فارسی 
----
+----------------
+>Assessment
+
++ [Resume and cover letter](https://github.com/zahraahmadiii/PNU_3991_AR/blob/main/XX_CV_CheckList_AR_3991.pdf)
+
++ [Public Sector Evaluation Summary](https://github.com/zahraahmadiii/PNU_3991_AR/blob/main/XX_GeneralSection_CheckList_AR_3991.pdf)
+ 
+--------------
 
 
 [رزومه فارسی](/resume-fa)
