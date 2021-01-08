@@ -42,9 +42,14 @@
 ### Social Media
 
 +https://gmail.com/zahraaahmadi141997@gmail.com
++ 09222982801
+--------------
+>Assessment
 
++ [Resume and cover letter](https://github.com/zahraahmadiii/PNU_3991_AR/blob/main/XX_CV_CheckList_AR_3991.pdf)
+
++ [Public Sector Evaluation Summary](https://github.com/zahraahmadiii/PNU_3991_AR/blob/main/XX_GeneralSection_CheckList_AR_3991.pdf)
+ 
 ---
 
 [رزومه فارسی](/resume-fa)
-<br>
-<a href="http://s16.picofile.com/file/8411938218/%D8%B1%D8%B2%D9%88%D9%85%D9%87_%D8%B2%D9%87%D8%B1%D8%A7_%D8%A7%D8%AD%D9%85%D8%AF%DB%8C_.pdf.html">Download resume</a>
